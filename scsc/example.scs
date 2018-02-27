@@ -1,0 +1,10 @@
+﻿using System;
+
+class Program
+{
+  int Main() {
+    System.Console.WriteLine("Hello World!");
+	System.Console.Read();
+	return 0;
+  }
+}

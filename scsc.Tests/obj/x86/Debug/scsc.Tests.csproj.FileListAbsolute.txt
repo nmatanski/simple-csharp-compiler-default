@@ -1,0 +1,24 @@
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\scsc.Tests.dll
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\scsc.Tests.pdb
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\nunit.core.dll
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\nunit.core.interfaces.dll
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\nunit.framework.dll
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\scsc.exe
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\scsc.pdb
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\bin\Debug\nunit.framework.xml
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.dll
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.pdb
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\scsc.Tests.dll
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\scsc.Tests.pdb
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\nunit.core.dll
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\nunit.core.interfaces.dll
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\nunit.framework.dll
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\scsc.exe
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\scsc.pdb
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\bin\Debug\nunit.framework.xml
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.csprojResolveAssemblyReference.cache
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.csproj.CoreCompileInputs.cache
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.dll
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\scsc.Tests\obj\x86\Debug\scsc.Tests.pdb

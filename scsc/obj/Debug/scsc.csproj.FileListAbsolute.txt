@@ -1,0 +1,12 @@
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\SharpDevelop\bin\Debug\scsc.exe
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\SharpDevelop\bin\Debug\scsc.pdb
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\SharpDevelop\obj\Debug\scsc.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\SharpDevelop\obj\Debug\scsc.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\SharpDevelop\obj\Debug\scsc.exe
+D:\Programming\C#\Simple C# Compiler Project for Uni\Default Proj (SharpDevelop)\SharpDevelop\obj\Debug\scsc.pdb
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\SharpDevelop\bin\Debug\scsc.exe
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\SharpDevelop\bin\Debug\scsc.pdb
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\SharpDevelop\obj\Debug\scsc.csprojResolveAssemblyReference.cache
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\SharpDevelop\obj\Debug\scsc.csproj.CoreCompileInputs.cache
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\SharpDevelop\obj\Debug\scsc.exe
+D:\Program Files\Programming\C#\Simple C# Compiler Project for Uni\MTProject C# 5 (default, SharpDevelop)\SharpDevelop\obj\Debug\scsc.pdb
